@@ -1,5 +1,5 @@
 
-set -o errexit
+set -o 
 
 bundle install
 bundle exec rails assets:precompile
