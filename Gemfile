@@ -20,6 +20,7 @@ gem 'activeadmin'
 gem 'devise'
 gem 'sassc-rails'
 gem 'activeadmin'
+gem 'pry'
 
 
 # Hotwire's SPA-like page accelerator [https://turbo.hotwired.dev]
